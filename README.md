@@ -6,8 +6,6 @@ Its a React App that show pizzas that are available and more information about t
 
 - [React](https://reactjs.org/) single page application
 - Routing done using [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
-- State management via [Redux](https://redux.js.org/)
-- ... \[other technologies\]
 
 
 ## Setup
