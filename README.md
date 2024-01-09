@@ -1,4 +1,4 @@
-# \react-pizza-app\
+# react-pizza-app
 
 Its a React App that show pizzas that are available and more information about those Pizzas.
 
